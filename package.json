@@ -1,0 +1,22 @@
+{
+  "name": "cmc-clone",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start",
+    "post-update": "yarn upgrade --latest"
+  },
+  "dependencies": {
+    "coingecko-api": "1.0.10",
+    "grommet": "2.15.2",
+    "grommet-icons": "4.5.0",
+    "next": "latest",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "styled-components": "5.2.1"
+  },
+  "license": "MIT",
+  "keywords": [],
+  "description": ""
+}
